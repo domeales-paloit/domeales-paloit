@@ -1,4 +1,8 @@
-## Hi there 👋
+## I'm Dom Eales, Welcome to my Github profile
+
+I'm a backend developer, DevOps engineer, sustainability advocate.
+
+
 
 <!--
 **domeales-paloit/domeales-paloit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
