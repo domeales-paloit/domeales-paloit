@@ -1,6 +1,6 @@
 ## I'm Dom Eales, Welcome to my Github profile
 
-I'm a backend developer, DevOps engineer, sustainability advocate.
+I'm a DevOps engineer, sustainability advocate, once was backend developer.
 
 
 
